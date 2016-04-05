@@ -1,0 +1,15 @@
+{
+  "name": "mintty-onedark",
+  "version": "1.0.0",
+  "description": "Atom onedark color setting for mintty terminal",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Retorillo",
+  "license": "MIT",
+  "devDependencies": {
+    "cson": "^3.0.2",
+    "iro": "^0.9.3"
+  }
+}

@@ -1,0 +1,13 @@
+# Most of values comes from:
+# geoffharcourt/one-dark.vim(http://bit.ly/237h8qs)
+
+black:  '#1E222A' 
+gray:   '#292C33' # background_color
+white:  '#ABB2BF' # normal_font_color
+blue:   '#61AFEF'
+purple: '#C678DD'
+green:  '#98C379'
+yellow: '#E5C07B'
+orange: '#D19A66'
+red:    '#E06C75'
+cyan:   '#56B6C2'
